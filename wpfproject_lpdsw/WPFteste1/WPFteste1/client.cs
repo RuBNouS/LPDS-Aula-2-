@@ -15,5 +15,6 @@ namespace WpfProjectLpdsw.Models
         public string Address2 { get; set; }
         public string PostalCode { get; set; }
         public string Country { get; set; }
+        public string PhoneNumber { get; set; }
     }
 }
